@@ -12,7 +12,7 @@ A quicksort escolhe um pivô aleatório e separa os elementos em três grupos: m
 
 Na versão híbrida, quando o tamanho do trecho é menor que `corte`, a ordenação por inserção é utilizada no lugar de novas chamadas recursivas da quicksort.
 
-- Metodologia;
+-- Metodologia;
 
 - Quantidade de elementos: 20.000.
 - Entrada: números inteiros aleatórios entre 0 e 100.000.
@@ -21,7 +21,7 @@ Na versão híbrida, quando o tamanho do trecho é menor que `corte`, a ordenaç
 - Métrica: mediana dos tempos de execução, em segundos.
 - Comparação: quicksort pura versus quicksort híbrida.
 
-- Resultados;
+-- Resultados;
 
 Preencher a tabela abaixo com os valores obtidos no arquivo `resultados.csv`.
 
